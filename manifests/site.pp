@@ -1,5 +1,5 @@
 node default {
-  file { '/root/README':
+  fileefasdf { '/root/README':
     ensure1 => file,
   }
 }
